@@ -5,7 +5,8 @@
 
 <div align="center">    
   
-# Computer Vision for Rare Diseases: A Scoping Review   
+# Computer Vision under Data Poverty: Applications, Challenges and Opportunities in Rare Diseases
+  
   
 </div>
 
@@ -22,14 +23,12 @@
 
 This is the official data and code repository for the paper:
 
-**"Computer Vision for Rare Diseases: A Scoping Review"**  
+**"Computer Vision under Data Poverty: Applications, Challenges and Opportunities in Rare Diseases"**  
 *Zhichuan Xu, Jie Song, Cheng Bi, Yuxin Zhang, Xin Zheng, Meng Xiao, Jiale Du, Rongrong Wu, Bairong Shen*
 
 
-Rare diseases, despite their individual rarity, collectively impact over 300 million people worldwide and pose significant challenges due to clinical heterogeneity, delayed diagnosis, and limited expertise. Computer Vision (CV) technologies—through the analysis of medical images, pathological slides, facial features, and other physical manifestations—show great promise in addressing these challenges, enabling automated screening, assisted diagnosis, patient subtyping, monitoring, surgical support, and prognostic evaluation.
-However, CV research in rare diseases remains fragmented, with limited systematic overviews of available datasets, cutting-edge technologies, and real-world clinical applications.
-In this scoping review, we analyze 772 publications in the field, summarize publicly available datasets, and highlight recent advances in CV methods, including data augmentation, interpretability, multimodal fusion, training strategies, and loss function design. We categorize clinical applications across major rare disease types—such as ophthalmic, neurologic, developmental, skeletal, respiratory, genitourinary, cardiovascular, hematologic, rheumatologic, and endocrine/metabolic diseases—and discuss key barriers to clinical adoption, including data privacy, fairness, data scarcity and imbalance, annotation quality, interpretability, and computational constraints. We also propose future directions, such as multidisciplinary collaboration, privacy-preserving data sharing, domain adaptation, advanced interpretability, and efficient model deployment.
-Our aim is to provide a comprehensive reference for researchers and clinicians by systematically mapping the CV landscape in rare diseases, fostering the advancement and clinical translation of CV-driven technologies in this important field.
+Rare diseases, though individually infrequent, collectively affect over 300 million people worldwide. The clinical heterogeneity, delayed diagnosis, and limited expertise associated with rare diseases present substantial challenges for early detection and effective management. Computer vision (CV) technologies, through analysis of medical images (such as X-rays and MRI), pathological slides, facial features, and other physical manifestations, show considerable potential in rare diseases for automated screening, assisted diagnosis, subtyping, monitoring, surgical support, and prognostic assessment. However, the landscape of CV research in rare diseases remains fragmented, with limited overviews of available datasets, state-of-the-art technologies, and clinical applications. In this scoping review, we provide a comprehensive overview of CV research in rare diseases by identifying and analyzing 772 relevant publications. We summarize publicly available datasets, discuss recent advances in CV methodologies, including data augmentation, interpretability, multimodal fusion, training strategies, and loss function design, and review clinical applications across major rare disease categories, including ophthalmic, neurologic, developmental, skeletal, respiratory, genitourinary, cardiovascular, hematologic, rheumatologic, and endocrine/metabolic diseases. We further discuss key challenges hindering the widespread adoption of CV in clinical practice, such as data privacy, fairness, scarcity and imbalance, annotation quality, interpretability, and computing resource constraints, and propose possible future directions, including multi-disciplinary collaboration, privacy-preserving data sharing, domain adaptation, multimodal fusion, advanced interpretability, and efficient model deployment. This review provides a comprehensive reference for researchers and clinicians, supporting the advancement of CV-driven diagnosis and management in rare diseases and the real-world clinical translation of these technologies in intelligent medicine for rare diseases.
+
 
 <div align="center">
   <img src="./figures/Graphical_abstract.jpg" alt="Graphical Abstract" width="100%">
