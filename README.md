@@ -5,7 +5,7 @@
 
 <div align="center">    
   
-# Computer Vision for Rare Diseases: A Scoping Review   
+# Computer Vision under Data Poverty: Applications, Challenges and Opportunities in Rare Diseases  
   
 </div>
 
@@ -22,7 +22,7 @@
 
 This is the official data and code repository for the paper:
 
-**"Computer Vision for Rare Diseases: A Scoping Review"**  
+**"Computer Vision under Data Poverty: Applications, Challenges and Opportunities in Rare Diseases"**  
 *Zhichuan Xu, Jie Song, Cheng Bi, Yuxin Zhang, Xin Zheng, Meng Xiao, Jiale Du, Rongrong Wu, Bairong Shen*
 
 
